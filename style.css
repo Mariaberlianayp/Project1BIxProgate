@@ -93,3 +93,68 @@ hr
 .container .img{
     margin-top: -90px;
 }
+
+
+
+
+
+/* Bagian data */
+.data{
+    height: 585px;
+    background-color: #1687A7;
+    margin-top: 2078px;
+    width: 1440px;
+}
+
+.title-data{
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+.title-data p{
+    padding-top: 45px;
+    padding-bottom: 20px;
+}
+
+.list-data{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-data{
+    border: 1px solid #ADADAD;
+    border-radius: 10px;
+    background-color: #F0F0F0;
+    height: 356px;
+}
+
+.container-card p{
+    margin: 0 0;
+    padding: 3% 3% 0% 3%;
+    font-size: 20px;
+}
+
+.card-data img{
+    width: 248px;
+    height: 248px;
+    border: 1px solid;
+    box-shadow: 0 6px 3px -2px #ADADAD; 
+    border-radius: 10px;
+}
+
+.star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-between;
+    padding: 4% 3% 5% 3%;
+}
+
+.star p{
+    font-size: 14px;
+}
