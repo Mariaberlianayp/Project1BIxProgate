@@ -275,3 +275,41 @@ hr
 .star p{
     font-size: 14px;
 }
+
+
+footer{
+    background-color: #276678;
+    color: white;
+}
+
+.footer-dalem{
+    display: flex;
+    justify-content: space-around;
+}
+
+.judul{
+    padding-top: 15px;
+}
+
+#copyright{
+    padding-top: 74px;
+}
+
+.isi{
+    font-weight: 100;
+    font-size: 15px;
+    padding-top: 20px;
+   
+}
+
+.isi p{
+    padding: 5px;
+}
+
+#logo a{
+    padding-top: 15px;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+}
