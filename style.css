@@ -99,6 +99,10 @@ hr
 
 
 /* Bagian data */
+.checked {
+    color: #FFDA44;
+ }
+
 .data{
     height: 585px;
     background-color: #1687A7;
